@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-14 10:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/admin/DomainCheckSettingsPage.php:58
+msgid "The API key is not valid."
+msgstr ""
+
+#: src/widget/DomainCheckWidget.php:17
+msgid "A domain check form"
+msgstr ""
+
+#: src/widget/DomainCheckWidget.php:35 src/widget/DomainCheckWidget.php:77
+msgid "Check"
+msgstr ""
+
+#: src/widget/DomainCheckWidget.php:36 src/widget/DomainCheckWidget.php:84
+#, php-format
+msgid "The domain %s is available."
+msgstr ""
+
+#: src/widget/DomainCheckWidget.php:37 src/widget/DomainCheckWidget.php:91
+#, php-format
+msgid "The domain %s is not available."
+msgstr ""
+
+#: src/widget/DomainCheckWidget.php:50
+msgid "The domain check failed. Please try again."
+msgstr ""
+
+#: src/widget/DomainCheckWidget.php:69
+msgid "Title:"
+msgstr ""
+
+#: src/widget/DomainCheckWidget.php:70
+msgid "Domain availability check"
+msgstr ""
+
+#: src/widget/DomainCheckWidget.php:76
+msgid "Button:"
+msgstr ""
+
+#: src/widget/DomainCheckWidget.php:83
+#, php-format
+msgid ""
+"Message when the domain is available (%s can be a placeholder for the "
+"domain):"
+msgstr ""
+
+#: src/widget/DomainCheckWidget.php:90
+#, php-format
+msgid ""
+"Message when the domain is registered (%s can be a placeholder for the "
+"domain):"
+msgstr ""
+
+#: templates/admin/settingsSection.php:4
+msgid ""
+"Please get your free api key from the <a href='http://whois-api."
+"domaininformation.de/'>Whois API</a>."
+msgstr ""
+
+#: templates/admin/activation.php:3
+msgid ""
+"Please set the Whois API key in <a href='options-general.php?"
+"page=domaincheck'>Settings/Domain Check</a>."
+msgstr ""
